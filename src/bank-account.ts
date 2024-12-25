@@ -7,7 +7,7 @@ class BankAccount {
 
     deposit(amount: number): number {
         this.balance
-        return 0
+
     }
 }
 
